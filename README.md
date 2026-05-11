@@ -48,7 +48,7 @@ Vault Factory is an architectural framework for orchestrating AI agents in WordP
 
 ## Contact
 
-- **Location:** Viseu, Portugal
-- **Email:** jesusdavid0518@hotmail.com
+- **Location:** Portugal
+- **Email:** controlenlaweb@gmail.com
 - **WhatsApp:** +351 967 878 598
 - **Portfolio:** https://enlaweb.co/portfolio
