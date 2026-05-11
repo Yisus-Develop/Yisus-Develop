@@ -1,7 +1,13 @@
 # Yisus_dev (Yisus-Develop) | Technical Lead & Web Architect
 
-Technical Lead with 8+ years building scalable solutions across WordPress, Node.js, and PHP for global markets (LatAm, US, and Europe).  
-Focused on high-performance web architecture, AI automation with MCP, and production-grade infrastructure.
+## English
+Technical Lead with 8+ years building scalable solutions across WordPress, Node.js, and PHP for global markets (LatAm, US, and Europe). Focused on high-performance web architecture, AI automation with MCP, and production-grade infrastructure.
+
+## Español
+Technical Lead con más de 8 años construyendo soluciones escalables en WordPress, Node.js y PHP para mercados globales (LatAm, US y Europa). Enfoque en arquitectura web de alto rendimiento, automatización con IA (MCP) e infraestructura orientada a producción.
+
+## Português
+Technical Lead com mais de 8 anos construindo soluções escaláveis em WordPress, Node.js e PHP para mercados globais (LatAm, EUA e Europa). Foco em arquitetura web de alto desempenho, automação com IA (MCP) e infraestrutura pronta para produção.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-enlaweb.co-0A66C2?style=for-the-badge)](https://enlaweb.co/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yisusdevelop-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yisusdevelop)
@@ -32,7 +38,7 @@ Focused on high-performance web architecture, AI automation with MCP, and produc
 
 ## Featured Project: Vault Factory
 
-**Vault Factory** is an architectural framework for orchestrating AI agents in WordPress environments via REST API, designed to improve engineering velocity and remove production bottlenecks.
+Vault Factory is an architectural framework for orchestrating AI agents in WordPress environments via REST API, designed to improve engineering velocity and remove production bottlenecks.
 
 ## Related Engines
 
@@ -42,7 +48,7 @@ Focused on high-performance web architecture, AI automation with MCP, and produc
 
 ## Contact
 
-- **Location:** Viseu, Portugal  
-- **Email:** jesusdavid0518@hotmail.com  
-- **WhatsApp:** +351 967 878 598  
+- **Location:** Viseu, Portugal
+- **Email:** jesusdavid0518@hotmail.com
+- **WhatsApp:** +351 967 878 598
 - **Portfolio:** https://enlaweb.co/portfolio
