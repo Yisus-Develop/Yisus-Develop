@@ -1,7 +1,7 @@
-# Jesús David Rodríguez Morales | Technical Lead & Web Architect
+# Yisus_dev (Yisus-Develop) | Technical Lead & Web Architect
 
-Technical Lead con +8 años construyendo soluciones escalables en WordPress, Node.js y PHP para mercados globales (LatAm, US y Europa).  
-Especializado en arquitectura web de alto rendimiento, automatización con IA (MCP) e infraestructura orientada a producción.
+Technical Lead with 8+ years building scalable solutions across WordPress, Node.js, and PHP for global markets (LatAm, US, and Europe).  
+Focused on high-performance web architecture, AI automation with MCP, and production-grade infrastructure.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-enlaweb.co-0A66C2?style=for-the-badge)](https://enlaweb.co/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yisusdevelop-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yisusdevelop)
@@ -9,17 +9,17 @@ Especializado en arquitectura web de alto rendimiento, automatización con IA (M
 
 ## Core Focus
 
-- Arquitectura de software y liderazgo técnico end-to-end.
-- Ecosistemas WordPress industriales con plugins y bridges custom.
-- Agentic workflows con Model Context Protocol (MCP) + REST APIs.
-- Performance engineering (Core Web Vitals), escalabilidad y estabilidad operativa.
+- End-to-end software architecture and technical leadership.
+- Industrial WordPress ecosystems with custom plugins and integration bridges.
+- Agentic workflows using Model Context Protocol (MCP) and REST APIs.
+- Performance engineering (Core Web Vitals), scalability, and operational reliability.
 
 ## Key Metrics
 
-- **+8 Years** de experiencia profesional en desarrollo y arquitectura.
-- **100k+ Users** impactados por herramientas propietarias.
-- **30+ Projects** implementados con motores internos y automatizaciones.
-- **Multi-Region Delivery**: Latinoamérica, Estados Unidos y Europa.
+- **8+ Years** of professional engineering experience.
+- **100k+ Users** impacted by proprietary tools.
+- **30+ Projects** delivered with internal engines and automation.
+- **Multi-Region Delivery** across Latin America, the United States, and Europe.
 
 ## Tech Stack
 
@@ -32,13 +32,13 @@ Especializado en arquitectura web de alto rendimiento, automatización con IA (M
 
 ## Featured Project: Vault Factory
 
-**Vault Factory** es un framework arquitectónico para orquestar agentes de IA en entornos WordPress vía REST API, con foco en productividad de desarrollo y reducción de cuellos de botella en producción.
+**Vault Factory** is an architectural framework for orchestrating AI agents in WordPress environments via REST API, designed to improve engineering velocity and remove production bottlenecks.
 
 ## Related Engines
 
-- **eweb-agent-skills**: framework de automatización para flujos agentic.
-- **monday-wp-bridge-pro**: integración bidireccional WordPress ↔ Monday.com.
-- **EWEB Smart QR**: motor dinámico con trazabilidad y analítica a escala.
+- **eweb-agent-skills:** automation framework for agentic development workflows.
+- **monday-wp-bridge-pro:** bidirectional WordPress ↔ Monday.com integration engine.
+- **EWEB Smart QR:** dynamic QR engine with tracking and analytics at scale.
 
 ## Contact
 
